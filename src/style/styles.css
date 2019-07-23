@@ -1,0 +1,23 @@
+body {
+  padding: 0;
+  margin: 0;
+  font-family: Verdana, Helvetica, sans-serif;
+}
+
+.advent--calendar {
+  color: #fff;
+  background-color: #dd0000;
+  box-shadow: 2px 2px rgba(204, 204, 204, 0.6);
+  text-align: center;
+  margin: 5px 5px;
+  padding: 50px 0px;
+  border: 1px solid #000;
+  font-size: 16pt;
+  font-weight: bold;
+  text-shadow: 3px 3px 2px #111;
+  border-top: 1px solid #cccccc;
+  border-bottom: 1px solid #cccccc;
+  border-left: 1px solid #cccccc;
+  border-right: 1px dotted #cccccc;
+  cursor: pointer;
+}
