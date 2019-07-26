@@ -1,123 +1,159 @@
 {
   "gifts":
   {
+    "notavailable":
+    {
+      "title": "The advent calendar is not available",
+      "description": "Lorem ipsum",
+      "price": "0"
+    },
+    "default":
+    {
+      "title": "Welcome to the advent calendar",
+      "description": "Lorem ipsum",
+      "price": "0"
+    },
     "one":
     {
+      "title": "Day 1",
       "description": "Lorem ipsum",
       "price": "0"
     },
     "two":
     {
+      "title": "Day 2",
       "description": "Lorem ipsum",
       "price": "0"
     },
     "three":
     {
+      "title": "Day 3",
       "description": "Lorem ipsum",
       "price": "0"
     },
     "four":
     {
+      "title": "Day 4",
       "description": "Lorem ipsum",
       "price": "0"
     },
     "five":
     {
+      "title": "Day 5",
       "description": "Lorem ipsum",
       "price": "0"
     },
     "six":
     {
+      "title": "Day 6",
       "description": "Lorem ipsum",
       "price": "0"
     },
     "seven":
     {
+      "title": "Day 7",
       "description": "Lorem ipsum",
       "price": "0"
     },
     "eight":
     {
+      "title": "Day 8",
       "description": "Lorem ipsum",
       "price": "0"
     },
     "nine":
     {
+      "title": "Day 9",
       "description": "Lorem ipsum",
       "price": "0"
     },
     "ten":
     {
+      "title": "Day 10",
       "description": "Lorem ipsum",
       "price": "0"
     },
     "eleven":
     {
+      "title": "Day 11",
       "description": "Lorem ipsum",
       "price": "0"
     },
     "twelve":
     {
+      "title": "Day 12",
       "description": "Lorem ipsum",
       "price": "0"
     },
     "thirteen":
     {
+      "title": "Day 13",
       "description": "Lorem ipsum",
       "price": "0"
     },
     "fourteen":
     {
+      "title": "Day 14",
       "description": "Lorem ipsum",
       "price": "0"
     },
     "fivteen":
     {
+      "title": "Day 15",
       "description": "Lorem ipsum",
       "price": "0"
     },
     "sixteen":
     {
+      "title": "Day 16",
       "description": "Lorem ipsum",
       "price": "0"
     },
     "seventeen":
     {
+      "title": "Day 17",
       "description": "Lorem ipsum",
       "price": "0"
     },
     "eighteen":
     {
+      "title": "Day 18",
       "description": "Lorem ipsum",
       "price": "0"
     },
     "nineteen":
     {
+      "title": "Day 19",
       "description": "Lorem ipsum",
       "price": "0"
     },
     "twenty":
     {
+      "title": "Day 20",
       "description": "Lorem ipsum",
       "price": "0"
     },
-    "twenty-one":
+    "twentyone":
     {
+      "title": "Day 21",
       "description": "Lorem ipsum",
       "price": "0"
     },
-    "twenty-two":
+    "twentytwo":
     {
+      "title": "Day 22",
       "description": "Lorem ipsum",
       "price": "0"
     },
-    "twenty-three":
+    "twentythree":
     {
+      "title": "Day 23",
       "description": "Lorem ipsum",
       "price": "0"
     },
-    "twenty-four":
+    "twentyfour":
     {
+      "title": "Day 24",
       "description": "Lorem ipsum",
       "price": "0"
     }
